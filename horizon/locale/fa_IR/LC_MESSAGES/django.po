@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+
+"Report-Msgid-Bugs-To: https://bugs.launchpad.net/openstack-i18n/\n"
+"POT-Creation-Date: 2020-04-14 03:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Persian\n"
+"Language: fa-IR\n"
+"X-Generator: Zanata 4.3.3\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: horizon/base.py:526
+msgid "Other"
+msgstr "دیگر"
+
+#: horizon/decorators.py:53
+msgid "Please log in to continue."
+msgstr "لطفا برای ادامه وارد شوید."
+
+#: horizon/decorators.py:85 horizon/decorators.py:110
+#, python-format
+msgid "You are not authorized to access %s"
+msgstr "شما اجازه دسترسی به %s را ندارید"
+
+#: horizon/exceptions.py:109
+#, python-format
+msgid "Invalid service catalog: %s"
+msgstr "سرویس کاتالوگ نامعتبر: %s"
+
+#: horizon/exceptions.py:118
+#, python-format
+msgid "A %(resource)s with the name \"%(name)s\" already exists."
+msgstr "یک %(resource)s با نام \"%(name)s\" وجود دارد."
+
+#: horizon/exceptions.py:136
+#, python-format
+msgid ""
+"The value of %(resource)s is %(name)s inside the template. When launching a "
+"stack from this interface, the value must start with \"http://\" or \"https:/"
+"/\""
+msgstr ""
+
+#: horizon/exceptions.py:220
+#, python-format
+msgid "Unauthorized: %s"
+msgstr "نامعتبر: %s"
+
+#: horizon/exceptions.py:223 horizon/templates/not_authorized.html:5
+msgid "Unauthorized. Please try logging in again."
+msgstr "نامعتبر. لطفا دوباره برای ورود تلاش کنید."
+
+#: horizon/notifications.py:75
+#, python-format
+msgid "Message json file '%(path)s' is malformed. %(exception)s"
+msgstr ""
+
+#: horizon/notifications.py:99
+#, python-format
+msgid "Error processing message json file '%(path)s': %(exception)s"
+msgstr ""
+
+#: horizon/browsers/base.py:88
+msgid "Navigation Item"
+msgstr ""
+
+#: horizon/browsers/views.py:44
+#, python-format
+msgid "Select a %s to browse."
+msgstr ""
+
+#: horizon/browsers/views.py:77 horizon/browsers/views.py:102
+#: horizon/templatetags/branding.py:34
+msgid "Horizon"
+msgstr "هورایزون"
+
+#: horizon/conf/default.py:44
+msgid "Password is not accepted"
+msgstr "گذرواژه قابل قبول نیست."
+
+#: horizon/forms/fields.py:73
+msgid "Incorrect format for IP address"
+msgstr "فرمت نامناسب برای آدرس آی پی"
+
+#: horizon/forms/fields.py:74
+msgid "Invalid version for IP address"
+msgstr "ورژن نامناسب برای آدرس آی پی"
+
+#: horizon/forms/fields.py:75
+msgid "Invalid subnet mask"
+msgstr "subnet mask نامعتبر"
+
+#: horizon/forms/fields.py:153
+msgid "Invalid MAC Address format"
+msgstr "فرمت نامناسب MAC Address"
+
+#: horizon/forms/views.py:136
+#: horizon/templates/horizon/common/_datepicker_form.html:20
+msgid "Submit"
+msgstr "ثبت"
+
+#: horizon/forms/views.py:137
+#: horizon/templates/horizon/common/_workflow.html:52
+#: horizon/templates/horizon/common/_workflow.html:60
+msgid "Cancel"
+msgstr "لغو"
+
+#: horizon/tables/actions.py:479
+#: horizon/templates/horizon/common/_data_table_table_actions.html:21
+#: horizon/templates/horizon/common/_data_table_table_actions.html:31
+#: horizon/templates/horizon/common/_workflow_step_update_members.html:14
+#: horizon/templates/horizon/common/_workflow_step_update_members.html:23
+msgid "Filter"
+msgstr "فیلتر"
+
+#: horizon/tables/actions.py:658
+msgid "This action cannot be undone."
+msgstr "این فعالیت قابل ناتمام بودن نیست."
+
+#: horizon/tables/actions.py:806
+#, python-format
+msgid "You are not allowed to %(action)s: %(objs)s"
+msgstr "شما مجاز به %(action)s: %(objs)s نیستید."
+
+#: horizon/tables/actions.py:813
+#, python-format
+msgid "Unable to %(action)s: %(objs)s"
+msgstr "عدم توانایی در %(action)s: %(objs)s"
+
+#: horizon/tables/actions.py:819
+#, python-format
+msgid "%(action)s: %(objs)s"
+msgstr ""
+
+#: horizon/tables/base.py:335
+msgid "-"
+msgstr ""
+
+#: horizon/tables/base.py:1103
+msgid "No items to display."
+msgstr "هیچ موردی برای نمایش وجود ندارد"
+
+#: horizon/tables/base.py:1172
+msgid "Please specify a search criteria first."
+msgstr ""
+
+#: horizon/tables/base.py:1228
+#: horizon/templates/horizon/common/_data_table_table_actions.html:54
+msgid "Actions"
+msgstr "فعالیت ها"
+
+#: horizon/tables/base.py:1494
+#, python-format
+msgid "No match returned for the id \"%s\"."
+msgstr "هیچ مشابهی برای آی دی \"%s\" یافت نشد."
+
+#: horizon/tables/base.py:1659
+msgid "Please select a row before taking that action."
+msgstr "لطفا قبل از انجام این فعالیت یک نقش انتخاب کنید."
+
+#: horizon/templates/not_authorized.html:8
+msgid "You are not authorized to access this page"
+msgstr "شما مجاز به دسترسی به این صفحه نیستید."
+
+#: horizon/templates/auth/login.html:4 horizon/templates/not_authorized.html:9
+msgid "Login"
+msgstr "ورود"
+
+#: horizon/templates/auth/_description.html:11
+msgid ""
+"If you are not sure which authentication method to use, contact your "
+"administrator."
+msgstr "اگر شما مطمن نیستید که کدام روش احراز هویت را استفاده کنید با ادمین سیستم خود تماس بگیرید."
+
+#: horizon/templates/auth/_login_form.html:17
+msgid "Log in"
+msgstr "ورود"
+
+#: horizon/templates/auth/_login_form.html:40
+msgid "You do not have permission to access the resource:"
+msgstr "شما اجازه دسترسی به منبع را ندارید:"
+
+#: horizon/templates/auth/_login_form.html:51
+#, python-format
+msgid ""
+"Login as different user or go back to <a href=\"%(home_url)s\">home page</a>"
+msgstr "ورود به عنوان کاربر متفاوت یا برگشت به <a href=\"%(home_url)s\">خانه</a>"
+
+#: horizon/templates/auth/_login_form.html:80
+msgid "Sign In"
+msgstr "ورود"
+
+#: horizon/templates/horizon/_messages.html:10
+msgid "Info: "
+msgstr "اطلاعات: "
+
+#: horizon/templates/horizon/_messages.html:18
+msgid "Warning: "
+msgstr "هشدار: "
+
+#: horizon/templates/horizon/_messages.html:26
+msgid "Success: "
+msgstr "موفقیت آمیز: "
+
+#: horizon/templates/horizon/_messages.html:34
+msgid "Error: "
+msgstr "ارور: "
+
+#: horizon/templates/horizon/client_side/_confirm.html:9
+msgid "You have selected: [[selection]]. "
+msgstr "شما انتخاب کرده اید: [[selection]]"
+
+#: horizon/templates/horizon/client_side/_confirm.html:11
+msgid "Please confirm your selection."
+msgstr "لطفا انتخاب خود را تایید کنید."
+
+#: horizon/templates/horizon/common/_data_table.html:68
+msgid "Summary"
+msgstr "Summary"
+
+#: horizon/templates/horizon/common/_data_table_pagination.html:6
+#, python-format
+msgid "Displaying %(counter)s item"
+msgid_plural "Displaying %(counter)s items"
+msgstr[0] ""
+
+#: horizon/templates/horizon/common/_data_table_pagination.html:11
+msgid "&laquo;&nbsp;Prev"
+msgstr ""
+
+#: horizon/templates/horizon/common/_data_table_pagination.html:14
+msgid "Next&nbsp;&raquo;"
+msgstr ""
+
+#: horizon/templates/horizon/common/_data_table_table_actions.html:52
+msgid "More Actions"
+msgstr "فعالیت های بیشتر"
+
+#: horizon/templates/horizon/common/_datepicker_form.html:4
+msgid "Select a period of time to query its usage:"
+msgstr ""
+
+#: horizon/templates/horizon/common/_datepicker_form.html:5
+msgid "The date should be in YYYY-MM-DD format."
+msgstr ""
+
+#: horizon/templates/horizon/common/_datepicker_form.html:13
+msgid "to"
+msgstr "به"
+
+#: horizon/templates/horizon/common/_domain_page_header.html:6
+#, python-format
+msgid "%(context_name)s:"
+msgstr ""
+
+#: horizon/templates/horizon/common/_formset_table.html:35
+msgid "Add a row"
+msgstr "افزودن یک سطر"
+
+#: horizon/templates/horizon/common/_formset_table_row.html:15
+#, python-format
+msgid "%(name)s: %(error)s"
+msgstr ""
+
+#: horizon/templates/horizon/common/_keystone_provider_selector.html:8
+msgid "Keystone Providers:"
+msgstr ""
+
+#: horizon/templates/horizon/common/_limit_summary.html:5
+msgid "Limit Summary"
+msgstr "محدوده Summary"
+
+#: horizon/templates/horizon/common/_limit_summary.html:19
+#, python-format
+msgid "%(usedphrase)s %(used)s of %(available)s"
+msgstr ""
+
+#: horizon/templates/horizon/common/_limit_summary.html:23
+#, python-format
+msgid "%(usedphrase)s %(used)s (No Limit)"
+msgstr ""
+
+#: horizon/templates/horizon/common/_resource_browser.html:10
+#, python-format
+msgid "Displaying %(nav_items)s item"
+msgid_plural "Displaying %(nav_items)s items"
+msgstr[0] "نمایش آیتم %(nav_items)s"
+
+#: horizon/templates/horizon/common/_resource_browser.html:11
+#, python-format
+msgid "Displaying %(content_items)s item"
+msgid_plural "Displaying %(content_items)s items"
+msgstr[0] "نمایش آیتم %(content_items)s"
+
+#: horizon/templates/horizon/common/_usage_summary.html:3
+msgid "Usage Summary"
+msgstr "میزان استفاده Summary"
+
+#: horizon/templates/horizon/common/_usage_summary.html:12
+msgid "Active Instances:"
+msgstr "Instanceهای فعال"
+
+#: horizon/templates/horizon/common/_usage_summary.html:14
+msgid "Active RAM:"
+msgstr "رم فعال"
+
+#: horizon/templates/horizon/common/_usage_summary.html:16
+msgid "This Period's VCPU-Hours:"
+msgstr ""
+
+#: horizon/templates/horizon/common/_usage_summary.html:18
+msgid "This Period's GB-Hours:"
+msgstr ""
+
+#: horizon/templates/horizon/common/_usage_summary.html:20
+msgid "This Period's RAM-Hours:"
+msgstr ""
+
+#: horizon/templates/horizon/common/_workflow.html:54
+msgid "Back"
+msgstr "بازگشت"
+
+#: horizon/templates/horizon/common/_workflow.html:55
+msgid "Next"
+msgstr "بعدی"
+
+#: horizon/templatetags/horizon.py:146
+msgid "(No Limit)"
+msgstr ""
+
+#: horizon/templatetags/horizon.py:149 horizon/templatetags/horizon.py:151
+msgid "Available"
+msgstr "قابل دسترسی"
+
+#: horizon/templatetags/sizeformat.py:51 horizon/templatetags/sizeformat.py:58
+#, python-format
+msgid "%(size)d Byte"
+msgid_plural "%(size)d Bytes"
+msgstr[0] ""
+
+#: horizon/templatetags/sizeformat.py:55
+msgid "Infinity"
+msgstr "بی نهایت"
+
+#: horizon/templatetags/sizeformat.py:61
+#, python-format
+msgid "%s KB"
+msgstr ""
+
+#: horizon/templatetags/sizeformat.py:63
+#, python-format
+msgid "%s MB"
+msgstr ""
+
+#: horizon/templatetags/sizeformat.py:65
+#, python-format
+msgid "%s GB"
+msgstr ""
+
+#: horizon/templatetags/sizeformat.py:67
+#, python-format
+msgid "%s TB"
+msgstr ""
+
+#: horizon/templatetags/sizeformat.py:69
+#, python-format
+msgid "%s PB"
+msgstr ""
+
+#: horizon/templatetags/sizeformat.py:71
+#, python-format
+msgid "%s EB"
+msgstr ""
+
+#: horizon/templatetags/sizeformat.py:73
+#, python-format
+msgid "%s ZB"
+msgstr ""
+
+#: horizon/templatetags/sizeformat.py:74
+#, python-format
+msgid "%s YB"
+msgstr ""
+
+#: horizon/templatetags/sizeformat.py:82
+msgid "0 Bytes"
+msgstr ""
+
+#. Translators: test code, don't really have to translate
+#: horizon/test/test_dashboards/dogs/puppies/tables.py:30
+msgid "Sell Puppy"
+msgid_plural "Sell Puppies"
+msgstr[0] ""
+
+#. Translators: test code, don't really have to translate
+#: horizon/test/test_dashboards/dogs/puppies/tables.py:39
+msgid "Sold Puppy"
+msgid_plural "Sold Puppies"
+msgstr[0] ""
+
+#: horizon/test/unit/test_views.py:58
+msgid "Fake"
+msgstr "تقلبی"
+
+#. Translators: test code, don't really have to translate
+#: horizon/test/unit/tables/test_tables.py:162
+msgid "Batch Item"
+msgid_plural "Batch Items"
+msgstr[0] ""
+
+#. Translators: test code, don't really have to translate
+#: horizon/test/unit/tables/test_tables.py:171
+msgid "Batched Item"
+msgid_plural "Batched Items"
+msgstr[0] ""
+
+#. Translators: test code, don't really have to translate
+#: horizon/test/unit/tables/test_tables.py:199
+msgid "Up Item"
+msgid_plural "Up Items"
+msgstr[0] ""
+
+#. Translators: test code, don't really have to translate
+#: horizon/test/unit/tables/test_tables.py:206
+msgid "Down Item"
+msgid_plural "Down Items"
+msgstr[0] ""
+
+#. Translators: test code, don't really have to translate
+#: horizon/test/unit/tables/test_tables.py:215
+msgid "Upped Item"
+msgid_plural "Upped Items"
+msgstr[0] ""
+
+#. Translators: test code, don't really have to translate
+#: horizon/test/unit/tables/test_tables.py:222
+msgid "Downed Item"
+msgid_plural "Downed Items"
+msgstr[0] ""
+
+#: horizon/utils/filters.py:50
+msgid "Never"
+msgstr "هرگز"
+
+#: horizon/utils/validators.py:28
+msgid "Not a valid port number"
+msgstr "شماره پورت نامعتبر"
+
+#: horizon/utils/validators.py:35
+msgid "Not a valid ICMP type"
+msgstr "نوع ICMP نامعتبر"
+
+#: horizon/utils/validators.py:42
+msgid "Not a valid ICMP code"
+msgstr "کد ICMP نامعتبر"
+
+#: horizon/utils/validators.py:47
+msgid "Not a valid IP protocol number"
+msgstr "شماره آی پی پروتکل نامعتبر"
+
+#: horizon/utils/validators.py:61
+msgid "One colon allowed in port range"
+msgstr ""
+
+#: horizon/utils/validators.py:68
+msgid "Invalid metadata entry. Use comma-separated key=value pairs"
+msgstr ""
+
+#: horizon/utils/validators.py:85
+msgid "The string may only contain ASCII printable characters."
+msgstr ""
+
+#: horizon/workflows/base.py:75
+msgid "Processing..."
+msgstr "در حال پردازش"
+
+#: horizon/workflows/base.py:516
+msgid "All available"
+msgstr "همگی در دسترس"
+
+#: horizon/workflows/base.py:517
+msgid "Members"
+msgstr "اعضا"
+
+#: horizon/workflows/base.py:518
+msgid "None available."
+msgstr "غیر قابل دسترسی"
+
+#: horizon/workflows/base.py:519
+msgid "No members."
+msgstr "بدون عضو"
+
+#: horizon/workflows/base.py:630
+msgid "Save"
+msgstr "ذخیره"
+
+#: horizon/workflows/base.py:631
+#, python-format
+msgid "%s completed successfully."
+msgstr "%s با موفقیت انجام شد"
+
+#: horizon/workflows/base.py:632
+#, python-format
+msgid "%s did not complete."
+msgstr "%s کامل نشد"
+
+#: horizon/workflows/base.py:909
+msgid ""
+"The current user has insufficient permission to complete the requested task."
+msgstr "دسترسی کاربر فعلی برای تسک درخواست شده کافی نیست."
+
+msgid "API Access"
+msgstr "دسترسی API"
+
+msgid "Service"
+msgstr "سرویس"
+
+msgid "Service Endpoint"
+msgstr "اندپوینت سرویس"
+
+msgid "View Credentials"
+msgstr "نمایش اعتبارنامه ها"
+
+msgid "Project"
+msgstr "پروژه"
+
+msgid "Object Store"
+msgstr "آبجکت استور"
+
+msgid "Containers"
+msgstr "کانتینرها"
+
+msgid "Admin"
+msgstr "مدیر"
+
+msgid "System"
+msgstr "سیستم"
+
+msgid "Defaults"
+msgstr "پیش فرضها"
+
+msgid "System Information"
+msgstr "اطلاعات سیستم"
+
+msgid "Identity"
+msgstr "هویت"
+
+msgid "Projects"
+msgstr "پروژه ها"
+
+msgid "Users"
+msgstr "کاربران"
+
+msgid "Groups"
+msgstr "گروه ها"
+
+msgid "Roles"
+msgstr "نقش ها"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Project ID"
+msgstr "آی دی پروژه"
+
+msgid "Domain Name"
+msgstr "نام دامین"
+
+msgid "Enabled"
+msgstr "فعال"
+
+msgid "User Name"
+msgstr "نام کاربری"
+
+msgid "User ID"
+msgstr "آی دی کاربر"
+
+msgid "Group ID"
+msgstr "آی دی گروه"
+
+msgid "Quota Name"
+msgstr "نام سهمیه"
+
+msgid "Limit"
+msgstr "محدوده"
+
+msgid "Region"
+msgstr "منطقه"
+
+msgid "Endpoints"
+msgstr "اندپوینت ها"
+
+
+msgid "Download OpenStack RC File"
+msgstr "دانلود فایل RC اوپن استک"
+
+msgid "Click here for filters"
+msgstr "برای فیلتر کردن اینجا کلیک کنید."
+
+msgid "Create Project"
+msgstr "ساخت پروژه"
+
+msgid "Delete Projects"
+msgstr "حذف پروژه ها"
+
+msgid "Project Name"
+msgstr "نام پروژه"
