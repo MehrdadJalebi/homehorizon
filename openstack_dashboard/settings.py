@@ -220,6 +220,7 @@ LANGUAGES = (
     ('cs', 'Czech'),
     ('de', 'German'),
     ('en', 'English'),
+    ('fa-ir', 'Persian'),
     ('en-au', 'Australian English'),
     ('en-gb', 'British English'),
     ('es', 'Spanish'),
