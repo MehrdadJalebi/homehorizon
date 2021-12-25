@@ -26,15 +26,18 @@ msgstr "لطفا برای ادامه وارد شوید."
 msgid "You are not authorized to access %s"
 msgstr "شما اجازه دسترسی به %s را ندارید"
 
+
 #: horizon/exceptions.py:109
 #, python-format
 msgid "Invalid service catalog: %s"
 msgstr "سرویس کاتالوگ نامعتبر: %s"
 
+
 #: horizon/exceptions.py:118
 #, python-format
 msgid "A %(resource)s with the name \"%(name)s\" already exists."
 msgstr "یک %(resource)s با نام \"%(name)s\" وجود دارد."
+
 
 #: horizon/exceptions.py:136
 #, python-format
@@ -101,6 +104,7 @@ msgstr "فرمت نامناسب MAC Address"
 #: horizon/templates/horizon/common/_datepicker_form.html:20
 msgid "Submit"
 msgstr "ثبت"
+
 
 #: horizon/forms/views.py:137
 #: horizon/templates/horizon/common/_workflow.html:52
@@ -326,7 +330,6 @@ msgstr "بازگشت"
 #: horizon/templates/horizon/common/_workflow.html:55
 msgid "Next"
 msgstr "بعدی"
-
 #: horizon/templatetags/horizon.py:146
 msgid "(No Limit)"
 msgstr ""
