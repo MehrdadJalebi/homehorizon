@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% block title %}{% trans "Eat fruit" %}{% endblock %}
+
+{% block main %}
+  {% include "kitchen/fruit/_eat.html" %}
+{% endblock %}
