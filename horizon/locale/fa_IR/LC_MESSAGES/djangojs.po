@@ -7,15 +7,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "PO-Revision-Date: 2019-11-26 10:55+0000\n"
-"Last-Translator: Ali Abdollahi <aa9050@gmail.com>\n"
+"Last-Translator: Mehrdad Jalebi <mehrdad.jalebi@gmail.com>\n"
 "Language-Team: Persian\n"
-"Language: fa\n"
+"Language: fa-IR\n"
 "X-Generator: Zanata 4.3.3\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.controller.js:44
 msgid "Text Inputs"
-msgstr ""
+msgstr "اینپوتهای متن"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.controller.js:48
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:9
@@ -29,7 +29,7 @@ msgstr "رادیو، چک باکس،انتخابی"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.controller.js:56
 msgid "Sections and Fieldsets"
-msgstr ""
+msgstr "سکشن ها و فیلدست ها"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.controller.js:60
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:840
@@ -38,7 +38,7 @@ msgstr "سربرگ ها"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.controller.js:64
 msgid "Add Ons, Required and Feedback"
-msgstr ""
+msgstr "موارد اضافی، مورد نیاز و بازخورد"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.controller.js:68
 msgid "Array"
@@ -50,15 +50,15 @@ msgstr "سربرگ آرایه"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.controller.js:76
 msgid "A Confirmation Dialog"
-msgstr ""
+msgstr "یک گفتگوی تایید"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.controller.js:184
 msgid "Your Form as JavaScript"
-msgstr ""
+msgstr "فرم شما به فرمت جاوااسکریپت"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.html:1
 msgid "Live Edit Schema Form Examples"
-msgstr ""
+msgstr "ویرایش آنلاین نمونه های الگوی فرم "
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.html:2
 msgid ""
@@ -75,15 +75,15 @@ msgstr "خروجی فرم"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.html:13
 msgid "View As Modal"
-msgstr ""
+msgstr "نمایش به عنوان مودال"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.html:20
 msgid "View Form JSON"
-msgstr ""
+msgstr "نمایش فرم JSON"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.html:38
 msgid "Model"
-msgstr ""
+msgstr "مدل"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.html:43
 msgid "Select Example"
@@ -91,7 +91,7 @@ msgstr "انتخاب نمونه"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.html:49
 msgid "Schema"
-msgstr ""
+msgstr "الگو"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/form-builder/form-builder.html:50
 msgid ""
@@ -146,19 +146,19 @@ msgstr "خصوصیات"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/resource-browser/resource-browser-item.html:60
 msgid "Table Columns:"
-msgstr ""
+msgstr "ستون های جدول"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/resource-browser/resource-browser-item.html:71
 msgid "Summary Template URL:"
-msgstr ""
+msgstr "خلاصه تمپلیت URL"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/resource-browser/resource-browser-item.html:80
 msgid "Supports Details View:"
-msgstr ""
+msgstr "نمایش جزییات پشتیبانی ها"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/resource-browser/resource-browser-item.html:89
 msgid "Load Function:"
-msgstr ""
+msgstr "بارگذاری تابع"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/resource-browser/resource-browser-item.html:97
 msgid "Details Views:"
@@ -166,7 +166,7 @@ msgstr "نمایش جزئیات:"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/resource-browser/resource-browser-item.html:109
 msgid "Global Actions:"
-msgstr ""
+msgstr "اکشن های گلوبال"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/resource-browser/resource-browser-item.html:134
 msgid "Batch Actions:"
@@ -204,7 +204,7 @@ msgstr "تایپوگرافی"
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:11
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:442
 msgid "Tables"
-msgstr ""
+msgstr "جداول"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:12
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:539
@@ -1036,11 +1036,11 @@ msgstr ""
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:1122
 msgid "Line Charts"
-msgstr ""
+msgstr "نمودارهای خطی"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:1142
 msgid "Basic"
-msgstr ""
+msgstr "پایه ای"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:1149
 msgid "Contextual alternatives"
@@ -1074,7 +1074,7 @@ msgstr "۷۵٪"
 #: openstack_dashboard/static/app/redirect.controller.js:46
 #: openstack_dashboard/static/js/horizon.networktopologycommon.js:69
 msgid "Loading"
-msgstr "در حال بارگزاری"
+msgstr "در حال بارگذاری"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:1242
 msgid "Jumbotron"
@@ -1206,12 +1206,12 @@ msgstr ""
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:1527
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:1534
 msgid "Top"
-msgstr ""
+msgstr "بالا"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:1528
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:1535
 msgid "Bottom"
-msgstr ""
+msgstr "پایین"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:1531
 msgid "Tooltips"
@@ -1219,7 +1219,7 @@ msgstr ""
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:1542
 msgid "Modals"
-msgstr ""
+msgstr "مودال ها"
 
 #: openstack_dashboard/contrib/developer/static/dashboard/developer/theme-preview/theme-preview.html:1555
 msgid "Standard Modal"
@@ -1522,63 +1522,63 @@ msgstr ""
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/roles.module.js:45
 #: openstack_dashboard/static/app/resources/resources.module.js:90
 msgid "Roles"
-msgstr ""
+msgstr "نقش ها"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/actions.module.js:55
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/edit.action.service.js:77
 msgid "Edit Role"
-msgstr ""
+msgstr "ویرایش نقش"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/actions.module.js:62
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/delete.action.service.js:100
 msgid "Delete Role"
 msgid_plural "Delete Roles"
-msgstr[0] ""
+msgstr[0] "حذف نقش"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/actions.module.js:73
 msgid "Delete Roles"
-msgstr ""
+msgstr "حذف نقشها"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/actions.module.js:83
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/create.action.service.js:91
 msgid "Create Role"
-msgstr ""
+msgstr "ایجاد نقش"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/create.action.service.js:54
 msgid "Role already exists."
-msgstr ""
+msgstr "نقش تکراری است."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/create.action.service.js:107
 #, python-format
 msgid "Role %s was successfully created."
-msgstr ""
+msgstr "نقش %s با موفقیت ساخته شد."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/delete.action.service.js:94
 msgid "Confirm Delete Role"
 msgid_plural "Confirm Delete Roles"
-msgstr[0] ""
+msgstr[0] "تایید حذف نقش ها"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/delete.action.service.js:97
 #, python-format
 msgid "You have selected \"%s\". Deleted role is not recoverable."
 msgid_plural "You have selected \"%s\". Deleted roles are not recoverable."
-msgstr[0] ""
+msgstr[0] "شما \"%s\" را انتخاب کرده اید. نقش حذف شده قابل بازگشت نیست."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/delete.action.service.js:103
 #, python-format
 msgid "Deleted Role: %s."
 msgid_plural "Deleted Roles: %s."
-msgstr[0] ""
+msgstr[0] "نقش حذف شده: %s."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/delete.action.service.js:106
 #, python-format
 msgid "Unable to delete Role: %s."
 msgid_plural "Unable to delete Roles: %s."
-msgstr[0] ""
+msgstr[0] "عدم توانایی حذف نقش:‌ %s"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/roles/actions/edit.action.service.js:91
 msgid "Role updated successfully."
-msgstr ""
+msgstr "نقش با موفقیت ویرایش شد."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/details/overview.html:4
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/users.module.js:49
@@ -1639,49 +1639,49 @@ msgstr "ساخت کاربر"
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/create.action.service.js:53
 #, python-format
 msgid "User %s was successfully created."
-msgstr ""
+msgstr "کاربر %s با موفقیت ساخته شد."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/delete.action.service.js:97
 msgid "Confirm Delete User"
 msgid_plural "Confirm Delete Users"
-msgstr[0] ""
+msgstr[0] "تایید حذف کاربر"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/delete.action.service.js:101
 #, python-format
 msgid "You have selected \"%s\". Deleted user is not recoverable."
 msgid_plural "You have selected \"%s\". Deleted users are not recoverable."
-msgstr[0] ""
+msgstr[0] "شما %s را انتخاب کرده اید. کاربر حذف شده قابل بازیابی نیست."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/delete.action.service.js:109
 #, python-format
 msgid "Deleted User: %s."
 msgid_plural "Deleted Users: %s."
-msgstr[0] ""
+msgstr[0] "کاربر حذف شده:‌ %s"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/delete.action.service.js:113
 #, python-format
 msgid "Unable to delete User: %s."
 msgid_plural "Unable to delete Users: %s."
-msgstr[0] ""
+msgstr[0] "عدم توانایی حذف کاربر : %s"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/disable.action.service.js:47
 #, python-format
 msgid "User %s was successfully disabled."
-msgstr ""
+msgstr "کاربر %s با موفقیت حذف شد."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/enable.action.service.js:47
 #, python-format
 msgid "User %s was successfully enabled."
-msgstr ""
+msgstr "کاربر %s با موفقیت فعال شد."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/password.action.service.js:53
 msgid "User password has been updated successfully."
-msgstr ""
+msgstr "گذرواژه شما با موفقیت تغییر یافت."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/update.action.service.js:51
 #, python-format
 msgid "User %s was successfully updated."
-msgstr ""
+msgstr "کاربر %s با موفقیت ویرایش شد."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/workflow/error.admin-password-incorrect.html:1
 msgid "The admin password is incorrect."
@@ -1695,19 +1695,19 @@ msgstr "خطایی در هنگام تغییر گذرواژه رخ داد"
 msgid ""
 "Create a new user and set related properties including the Primary Project "
 "and Role."
-msgstr ""
+msgstr "ساخت یک کاربر جدید و ست کردن ویژگی های مربوط به آن شامل پروژه اصلی و نقش"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/workflow/info.password.help.html:1
 msgid "Change user's password. We highly recommend you create a strong one."
-msgstr ""
+msgstr "تغییر گذرواژه کاربر. ما شدیدا پیشنهاد میکنیم گذرواژه ای قوی بسازید."
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/workflow/info.update.help.html:1
 msgid "Edit the user's details, including the Primary Project."
-msgstr ""
+msgstr "ویرایش جزییات کاربر، شامل پروژه اصلی"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/workflow/workflow.service.js:55
 msgid "Domain Id"
-msgstr ""
+msgstr "آی دی دامین"
 
 #: openstack_dashboard/dashboards/identity/static/dashboard/identity/users/actions/workflow/workflow.service.js:60
 msgid "User Name"
@@ -1727,7 +1727,7 @@ msgstr "تایید گذرواژه"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:69
 msgid "Prefix"
-msgstr ""
+msgstr "پیشوند"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:121
 #, python-format
@@ -1736,12 +1736,12 @@ msgstr ""
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:136
 msgid "Confirm Delete"
-msgstr ""
+msgstr "تایید حذف"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:138
 #, python-format
 msgid "Are you sure you want to delete container %(name)s?"
-msgstr ""
+msgstr "آیا شما از حذف %(name)s مطمن هستید؟ "
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:140
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/delete-objects-modal.html:36
@@ -1749,34 +1749,34 @@ msgstr ""
 #: openstack_dashboard/static/js/horizon.flatnetworktopology.js:564
 #: openstack_dashboard/static/js/horizon.networktopology.js:1029
 msgid "Delete"
-msgstr ""
+msgstr "حذف"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:154
 #, python-format
 msgid "Container %(name)s deleted."
-msgstr ""
+msgstr "کانتینر %(name)s حذف شد."
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:176
 msgid "Container Name"
-msgstr ""
+msgstr "نام کانتینر"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:179
 msgid "Container name must not contain \"/\"."
-msgstr ""
+msgstr "نام کانتینر نباید شامل \"/\" باشد."
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:182
 msgid "Container Access"
-msgstr ""
+msgstr "دسترسی کانتینر"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:185
 msgid ""
 "A Public Container will allow anyone with the Public URL to gain access to "
 "your objects in the container."
-msgstr ""
+msgstr "یک کانتینر پابلیک به هر کسی با یک URL پابلیک اجازه دسترسی به آبجکت های کانتینر شما را میدهد."
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:204
 msgid "A container with that name exists."
-msgstr ""
+msgstr "یک کانتینر با این نام وجود دارد."
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:215
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/flavor/flavor.controller.js:63
@@ -1799,20 +1799,20 @@ msgstr "خصوصی"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:228
 msgid "Create Container"
-msgstr ""
+msgstr "ساخت کانتینر"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.controller.js:244
 #, python-format
 msgid "Container %(name)s created."
-msgstr ""
+msgstr "کانتینر %(name)s ساخته شد."
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.html:7
 msgid "Container"
-msgstr ""
+msgstr "کانتینر"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.html:31
 msgid "Delete Container"
-msgstr ""
+msgstr "حذف کانتینر"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.html:47
 msgid "Object Count"
@@ -1854,19 +1854,19 @@ msgstr "حساب های کاربری سویفت"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.module.js:88
 msgid "Swift Container"
-msgstr ""
+msgstr "کانتینر سوییفت"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.module.js:88
 msgid "Swift Containers"
-msgstr ""
+msgstr "کانتینرهای سوییفت"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.module.js:91
 msgid "Object"
-msgstr ""
+msgstr "آبجکت"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/containers.module.js:91
 msgid "Objects"
-msgstr ""
+msgstr "آبجکت ها"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/copy-object-modal.html:8
 msgid "Copy Object: {$ ctrl.model.container $}/{$ ctrl.model.path $}"
@@ -1874,20 +1874,20 @@ msgstr ""
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/copy-object-modal.html:20
 msgid "Destination Container"
-msgstr ""
+msgstr "کانتینر مقصد"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/copy-object-modal.html:36
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/copy-object-modal.html:68
 msgid "This field is required."
-msgstr "فیلد الزامی"
+msgstr "این فیلد الزامی است"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/copy-object-modal.html:41
 msgid "This container does not exist."
-msgstr ""
+msgstr "این کانتینر وجود ندارد."
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/copy-object-modal.html:52
 msgid "Destination Object"
-msgstr ""
+msgstr "آبجکت مقصد"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/copy-object-modal.html:73
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/upload-object-modal.html:32
@@ -1898,7 +1898,7 @@ msgstr "این نام در حال حاضر موجود است"
 msgid ""
 "You can copy objects. You have to create destination container prior to copy."
 ""
-msgstr ""
+msgstr "شما می توانید آبجکت ها را کپی کنید. شما باید یک کانتینر مقصد برای کپی بسازید"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/copy-object-modal.html:86
 msgid ""
@@ -1910,7 +1910,7 @@ msgstr ""
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/copy-object-modal.html:103
 msgid "Copy Object"
-msgstr ""
+msgstr "کپی آبجکت"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/create-container.help.html:1
 msgid ""
@@ -1948,11 +1948,11 @@ msgstr ""
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/delete-objects-modal.html:12
 msgid "Collecting information for deletion:"
-msgstr ""
+msgstr "جمع آوری داده برای حذف"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/delete-objects-modal.html:15
 msgid "Deleting:"
-msgstr ""
+msgstr "حذف کردن"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/delete-objects-modal.html:16
 msgid ""
@@ -1966,15 +1966,15 @@ msgstr ""
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/delete-objects-modal.html:37
 msgid "OK"
-msgstr ""
+msgstr "تایید"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/edit-object-modal.html:6
 msgid "Edit File: {$ ctrl.model.container $} : {$ ctrl.model.path $}"
-msgstr ""
+msgstr "ویرایش فایل: {$ ctrl.model.container $} : {$ ctrl.model.path $}"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/edit-object-modal.html:16
 msgid "New File Contents"
-msgstr ""
+msgstr "ساخت محتویات فایل"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/edit-object-modal.html:37
 msgid "Edit File"
@@ -1982,19 +1982,19 @@ msgstr "ویرایش فایل"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/object-details-modal.html:6
 msgid "Object Details"
-msgstr ""
+msgstr "جزییات آبجکت ها"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/object-details-modal.html:13
 msgid "Hash"
-msgstr ""
+msgstr "هش"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/object-details-modal.html:15
 msgid "Content Type"
-msgstr ""
+msgstr "نوع محتوا"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/object-details-modal.html:17
 msgid "Timestamp"
-msgstr ""
+msgstr "تایم استمپ"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/objects-batch-actions.service.js:54
 msgid "Folder"
@@ -2008,12 +2008,12 @@ msgstr "در حال اپلود"
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/objects-batch-actions.service.js:105
 #, python-format
 msgid "File %(name)s uploaded."
-msgstr ""
+msgstr "فایل %(name)s آپلود شد"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/objects-batch-actions.service.js:148
 #, python-format
 msgid "Folder %(name)s created."
-msgstr ""
+msgstr "پوشه %(name)s ساخته شد."
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/objects-row-actions.service.js:56
 msgid "Download"
@@ -2027,48 +2027,48 @@ msgstr "نمایش جزئیات"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/objects-row-actions.service.js:64
 msgid "Edit"
-msgstr ""
+msgstr "ویرایش"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/objects-row-actions.service.js:68
 msgid "Copy"
-msgstr ""
+msgstr "کپی"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/objects-row-actions.service.js:188
 #, python-format
 msgid "File %(path)s uploaded."
-msgstr ""
+msgstr "فایل %(path)s آپلود شد."
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/objects-row-actions.service.js:293
 msgid "Copying"
-msgstr ""
+msgstr "کپی کردن"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/objects-row-actions.service.js:309
 #, python-format
 msgid "Object %(path)s has copied."
-msgstr ""
+msgstr "آبجکت %(path)s کپی شد."
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/select-container.html:4
 msgid "Select a container to browse."
-msgstr ""
+msgstr "یک کانتینر انتخاب کنید"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/upload-object-modal.html:6
 msgid "Upload File To: {$ ctrl.model.container.name $}"
-msgstr ""
+msgstr "آپلود فایل در : {$ ctrl.model.container.name $}"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/upload-object-modal.html:17
 #: openstack_dashboard/static/app/core/images/steps/create-image/create-image.controller.js:130
 #: openstack_dashboard/static/app/core/images/steps/create-image/create-image.controller.spec.js:208
 #: openstack_dashboard/static/app/core/images/steps/create-image/create-image.html:74
 msgid "File"
-msgstr ""
+msgstr "فایل"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/upload-object-modal.html:25
 msgid "File Name"
-msgstr ""
+msgstr "نام فایل"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/upload-object-modal.html:29
 msgid "Checking if this name is used..."
-msgstr ""
+msgstr "در حال چک کردن تکراری نبودن نام"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/upload-object-modal.html:41
 msgid ""
@@ -2079,7 +2079,7 @@ msgstr ""
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/containers/upload-object-modal.html:58
 msgid "Upload File"
-msgstr ""
+msgstr "آپلود فایل"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/launch-instance-model.service.js:335
 #, python-format
@@ -2107,7 +2107,7 @@ msgstr ""
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/source/source.controller.js:606
 #: openstack_dashboard/static/app/resources/resources.module.js:62
 msgid "Volume"
-msgstr ""
+msgstr "حجم"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/launch-instance-model.service.js:725
 #: openstack_dashboard/static/app/resources/resources.module.js:60
@@ -2140,17 +2140,17 @@ msgstr ""
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/launch-instance-workflow.service.js:57
 #: openstack_dashboard/static/app/resources/resources.module.js:66
 msgid "Networks"
-msgstr ""
+msgstr "شبکه ها"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/launch-instance-workflow.service.js:65
 #: openstack_dashboard/static/app/resources/resources.module.js:72
 msgid "Network Ports"
-msgstr ""
+msgstr "پورت های شبکه"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/launch-instance-workflow.service.js:73
 #: openstack_dashboard/static/app/resources/resources.module.js:80
 msgid "Security Groups"
-msgstr ""
+msgstr "گروه های امنیت"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/launch-instance-workflow.service.js:81
 #: openstack_dashboard/static/app/core/keypairs/keypairs.module.js:48
@@ -2165,7 +2165,7 @@ msgstr ""
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/launch-instance-workflow.service.js:96
 #: openstack_dashboard/static/app/core/server_groups/server-groups.module.js:47
 msgid "Server Groups"
-msgstr ""
+msgstr "گروه های سرور"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/launch-instance-workflow.service.js:105
 msgid "Scheduler Hints"
@@ -2184,11 +2184,11 @@ msgstr ""
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/configuration/configuration.controller.js:42
 msgid "Automatic"
-msgstr ""
+msgstr "اتوماتیک"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/configuration/configuration.controller.js:43
 msgid "Manual"
-msgstr ""
+msgstr "دستی"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/configuration/configuration.help.html:2
 msgid ""
@@ -2792,12 +2792,12 @@ msgstr ""
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/network/network.html:142
 #: openstack_dashboard/static/app/resources/resources.module.js:88
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/network/network.html:64
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/network/network.html:144
 msgid "External Network"
-msgstr ""
+msgstr "شبکه خارجی"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/network/network.html:67
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/network/network.html:147
@@ -2808,29 +2808,29 @@ msgstr ""
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/network/network.html:154
 #: openstack_dashboard/static/app/core/trunks/details/overview.controller.js:55
 msgid "Segmentation ID"
-msgstr ""
+msgstr "آی دی سگمنتیشن"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/network/network.html:78
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/network/network.html:158
 msgid "Physical Network"
-msgstr ""
+msgstr "شبکه فیزیکی"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/network/network.html:106
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/networkports/ports.html:106
 #: openstack_dashboard/static/app/core/trunks/steps/trunk-parent-port.html:118
 #: openstack_dashboard/static/app/core/trunks/steps/trunk-subports.html:137
 msgid "No available items"
-msgstr ""
+msgstr "هیچ آیتمی در دسترس نیست"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/networkports/ports.controller.js:48
 #: openstack_dashboard/static/app/core/trunks/trunks.module.js:155
 msgid "Normal"
-msgstr ""
+msgstr "نرمال"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/networkports/ports.controller.js:49
 #: openstack_dashboard/static/app/core/trunks/trunks.module.js:156
 msgid "Direct"
-msgstr ""
+msgstr "مستقیم"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/networkports/ports.controller.js:50
 #: openstack_dashboard/static/app/core/trunks/trunks.module.js:157
@@ -2906,7 +2906,7 @@ msgstr ""
 #: openstack_dashboard/static/app/core/trunks/steps/trunk-subports.html:26
 #: openstack_dashboard/static/app/core/trunks/steps/trunk-subports.html:128
 msgid "IP"
-msgstr ""
+msgstr "آی پی"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/networkports/ports.html:43
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/networkports/ports.html:120
@@ -2927,7 +2927,7 @@ msgstr ""
 #: openstack_dashboard/static/app/core/trunks/steps/trunk-subports.html:174
 #: openstack_dashboard/static/app/core/trunks/trunks.module.js:137
 msgid "Project ID"
-msgstr ""
+msgstr "آی دی پروژه"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/networkports/ports.html:68
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/networkports/ports.html:145
@@ -2936,7 +2936,7 @@ msgstr ""
 #: openstack_dashboard/static/app/core/trunks/steps/trunk-subports.html:97
 #: openstack_dashboard/static/app/core/trunks/steps/trunk-subports.html:176
 msgid "Network ID"
-msgstr ""
+msgstr "آی دی شبکه"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/networkports/ports.html:72
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/networkports/ports.html:149
@@ -2954,7 +2954,7 @@ msgstr ""
 #: openstack_dashboard/static/app/core/trunks/steps/trunk-subports.html:106
 #: openstack_dashboard/static/app/core/trunks/steps/trunk-subports.html:185
 msgid "Host ID"
-msgstr ""
+msgstr "آی دی هاست"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/scheduler-hints/scheduler-hints.controller.js:40
 msgid ""
@@ -2993,7 +2993,7 @@ msgstr ""
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/security-groups/security-group-details.html:4
 #: openstack_dashboard/static/app/core/network_qos/details/overview.controller.js:50
 msgid "Direction"
-msgstr ""
+msgstr "مسیر"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/security-groups/security-group-details.html:5
 msgid "Ether Type"
@@ -3001,7 +3001,7 @@ msgstr ""
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/security-groups/security-group-details.html:6
 msgid "Protocol"
-msgstr ""
+msgstr "پروتکل"
 
 #: openstack_dashboard/dashboards/project/static/dashboard/project/workflow/launch-instance/security-groups/security-group-details.html:7
 msgid "Min Port"
@@ -5393,26 +5393,37 @@ msgstr ""
 
 #: openstack_dashboard/static/js/horizon.volumes.js:54
 msgid "No description available."
-msgstr ""
+msgstr "هیچ توضیحاتی در دسترس نیست."
 
 #: openstack_dashboard/static/js/angular/directives/serialConsole.js:23
 msgid "Connecting"
-msgstr ""
+msgstr "در حال اتصال"
 
 #: openstack_dashboard/static/js/angular/directives/serialConsole.js:24
 msgid "Open"
-msgstr ""
+msgstr "باز"
 
 #: openstack_dashboard/static/js/angular/directives/serialConsole.js:25
 msgid "Closing"
-msgstr ""
+msgstr "در حال بسته شدن"
 
 #: openstack_dashboard/static/js/angular/directives/serialConsole.js:26
 msgid "Closed"
-msgstr ""
+msgstr "بسته شده"
 
 #: openstack_dashboard/static/js/angular/directives/serialConsole.js:134
 #, python-format
 msgid "Status: %s"
-msgstr ""
+msgstr "وضعیت:‌ %s"
 
+msgid "Create Project"
+msgstr "ساخت پروژه"
+
+msgid "Delete Projects"
+msgstr "حذف پروژه ها"
+
+msgid "Project Name"
+msgstr "نام پروژه"
+
+msgid "Click here for filters"
+msgstr "برای فیلتر کردن اینجا کلیک کنید."
